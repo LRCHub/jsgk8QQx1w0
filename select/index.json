@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "アンノウン・マザーグース",
+  "base_artist": "宮下遊",
+  "createdAt": "2026-01-05T13:07:09.274337Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アンノウン・マザーグース",
+      "artist": "wowaka feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/01_アンノウン・マザーグース_wowaka_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アンノウン・マザーグース",
+      "artist": "Hitorie",
+      "has_synced": true,
+      "path": "select/02_アンノウン・マザーグース_Hitorie.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アンノウン・マザーグース",
+      "artist": "ヒトリエ",
+      "has_synced": false,
+      "path": "select/03_アンノウン・マザーグース_ヒトリエ.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "アンノウン・マザーグース",
+      "artist": "ヒトリエ",
+      "has_synced": true,
+      "path": "select/04_アンノウン・マザーグース_ヒトリエ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "アンノウン・マザーグース",
+      "artist": "Hitorie",
+      "has_synced": true,
+      "path": "select/05_アンノウン・マザーグース_Hitorie.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "アンノウン・マザーグース",
+      "artist": "ヒトリエ",
+      "has_synced": true,
+      "path": "select/06_アンノウン・マザーグース_ヒトリエ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "アンノウン・マザーグース 2018.3.25 LIVE at EX THEATER ROPPONGI",
+      "artist": "Hitorie",
+      "has_synced": true,
+      "path": "select/07_アンノウン・マザーグース_2018.3.25_LIVE_at_EX_THEATER_ROPPONGI_Hitorie.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "アンノウン・マザーグース",
+      "artist": "Hoshimatic Project",
+      "has_synced": true,
+      "path": "select/08_アンノウン・マザーグース_Hoshimatic_Project.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "アンノウン・マザーグース",
+      "artist": "ヒトリエ",
+      "has_synced": true,
+      "path": "select/09_アンノウン・マザーグース_ヒトリエ.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "アンノウン・マザーグース (Cover)",
+      "artist": "Hoshimatic Project",
+      "has_synced": true,
+      "path": "select/10_アンノウン・マザーグース_(Cover)_Hoshimatic_Project.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "アンノウン・マザーグース",
+      "artist": "ヒトリエ",
+      "has_synced": true,
+      "path": "select/11_アンノウン・マザーグース_ヒトリエ.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "アンノウン・マザーグース",
+      "artist": "ヰ世界情緒",
+      "has_synced": true,
+      "path": "select/12_アンノウン・マザーグース_ヰ世界情緒.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "アンノウン・マザーグース(Unknown Mother-Goose）",
+      "artist": "ヒトリエ",
+      "has_synced": true,
+      "path": "select/13_アンノウン・マザーグース(Unknown_Mother-Goose)_ヒトリエ.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "アンノウン・マザーグース / Unknown Mother-Goose",
+      "artist": "ヒトリエ",
+      "has_synced": true,
+      "path": "select/14_アンノウン・マザーグース___Unknown_Mother-Goose_ヒトリエ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アンノウン・マザーグース",
+      "artist": "宮下 遊",
+      "has_synced": false,
+      "path": "select/pl_01_アンノウン・マザーグース_宮下_遊.txt"
+    }
+  ]
+}
